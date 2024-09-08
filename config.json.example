@@ -1,0 +1,13 @@
+{
+    "bearerToken": "BgZqUOGP9KeTli0OaXXXXXXXXXXXXXXXXXXXXXXX",
+    "domains": [
+        {
+            "name": "example.com",
+            "zoneId": "de96a1770e2fc31XXXXXXXXXXXXXXXXX"
+        },
+        {
+            "name": "example2.com",
+            "zoneId": "pq90f2387k6hw42XXXXXXXXXXXXXXXXX"
+        }
+    ]
+}
